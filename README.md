@@ -155,6 +155,10 @@ $ns run
 
 <img width="1567" height="1600" alt="image" src="https://github.com/user-attachments/assets/ed220b61-4067-40f4-ae83-5fd1a5199381" />
 
+<img width="940" height="609" alt="image" src="https://github.com/user-attachments/assets/52a8287b-ba29-486c-a619-3af1b3be7a30" />
+
+<img width="851" height="565" alt="image" src="https://github.com/user-attachments/assets/50b41710-5846-4aaf-a2af-09b968eb77af" />
+
 ---
 
 # RESULT
